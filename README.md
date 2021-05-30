@@ -1,2 +1,2 @@
 # DukeML
- Duke University's Introduction To Machine Learning - Coursera
+ Duke University's Introduction to Machine Learning - Coursera
